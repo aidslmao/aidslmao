@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing much, just started a new project
 - 📫 How to reach me, impossible
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like trains
+- ⚡ Fun fact: A08 is my specialty
 - Please elp c++ is strange and my python my beloved
 
 <!---
