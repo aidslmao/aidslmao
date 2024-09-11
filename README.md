@@ -5,6 +5,7 @@
 - 📫 How to reach me, impossible
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains
+- Please elp c++ is strange and my python my beloved
 
 <!---
 aidslmao/aidslmao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
